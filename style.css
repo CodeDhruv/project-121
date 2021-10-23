@@ -1,0 +1,46 @@
+  body{
+    font-family: 'Gideon Roman', cursive;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+  }
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+   float: none;
+   padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .copy_right_footer{
+   position: fixed;
+   color: rgb(0, 0, 0);
+   bottom: 35;
+   width: 50%;
+   height: 30px;
+   background-color: rgb(118, 255, 171);
+   box-shadow:5px 5px 5px 5px grey;
+   line-height: 30px;
+   text-align: center;
+   margin-left: 370px;
+   border-radius: 50px;
+ }
+ .result_para_tag{
+   white-space: pre-line;
+ }
